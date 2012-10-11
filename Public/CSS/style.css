@@ -1,0 +1,16 @@
+body {
+	background: #1D1B1B ; 
+  font: 14px sans-serif;
+  margin: 1em;
+
+font-family: Helvetica; 
+color: white;
+padding: 0.7em;
+letter-spacing: 0.05em;
+
+  }
+
+  .flotte {
+float:left;
+margin-right: 0.5em;
+}
